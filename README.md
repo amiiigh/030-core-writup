@@ -326,7 +326,7 @@ after scrolling enough :)) I saw the flag .
  1c2e6e0 00000000 00000000 21000000 00000000  ........!.......
  1c2e6f0 00000000 00000000 0a000000 00000000  ................
 ```
-and it's **b!0!c!t!f!{!C!o!n!g!r!a!t!s!,! !m!e!m!o!r!y! !d!u!m!p!s! !a!r!e! !f!u!n!}!**
+and it's b!0!c!t!f!{!C!o!n!g!r!a!t!s!,! !m!e!m!o!r!y! !d!u!m!p!s! !a!r!e! !f!u!n!}!
 I think '!' are not part of the answer so the flag is : 
 b0ctf{Congrats, memory dumps are fun}
 
